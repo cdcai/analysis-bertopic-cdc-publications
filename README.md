@@ -15,7 +15,7 @@
 
 This repository contains code, data, and figures associated with a forthcoming preprint describing a decade of CDC-authored publications using topic modeling and bibliometrics.
 
-Preprint link: [COMING SOON]
+Preprint link: https://www.medrxiv.org/content/10.1101/2025.03.07.25323572v1
 
 The source of publications analyzed in this project is CDC Science Clips, a public-facing database of publications by CDC authors. This data can be accessed here: https://www.cdc.gov/library/sciclips/download/.
 
